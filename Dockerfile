@@ -17,4 +17,6 @@ RUN npm install
 WORKDIR /xori/gui
 
 COPY ./start.sh /start.sh
+EXPOSE 3000
+EXPOSE 5000
 ENTRYPOINT /start.sh
