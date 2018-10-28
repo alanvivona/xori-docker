@@ -6,7 +6,8 @@ ___
 ### Using docker-compose
 > docker-compose up
 
-then go to http://localhost:3000/
+GUI http://localhost:3000/  
+API http://localhost:5000/
 ___
 ### Without docker-compose
 
